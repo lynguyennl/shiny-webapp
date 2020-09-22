@@ -1,5 +1,5 @@
 ---
-title: "pitch: a quote for you"
+title: "shiny pitch"
 author: "Ly Nguyen"
 date: "9/23/2020"
 output: ioslides_presentation
@@ -30,6 +30,19 @@ It is an R presentation generated with R Markdown to accompany my shiny applicat
 - You will then receive you quote on the main panel. 
 
 ## Try the app
-Try the app at:  
+
+
+
+
+Try the app at: 
+
+- https://lynguyen.shinyapps.io/shiny-webapp-n/ 
+
 
 Get the source code at: 
+
+- https://github.com/lynguyennl/shiny-webapp/tree/gh-pages/script 
+
+
+
+Enjoy (:
