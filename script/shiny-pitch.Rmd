@@ -1,0 +1,35 @@
+---
+title: "pitch: a quote for you"
+author: "Ly Nguyen"
+date: "9/23/2020"
+output: ioslides_presentation
+---
+## Introduction 
+This presentation is made for the Course Project of the Developeing Data Products Coursera Course. 
+
+It is an R presentation generated with R Markdown to accompany my shiny application. 
+
+
+## What is my app about? 
+
+- This shiny web app is a very simple application. 
+- My aim is to interact with you beyond showing you just a plot or predictive model 
+- So I want to give your a customized quote instead. 
+
+## How does it work? 
+
+- I used **radioButtons** to prompt you to answer 3 simple questions on the side panel: 
+1. What is your favourite color group? 
+2. How are you feeling now? 
+3. Who is your favourite author? 
+
+- Each of your input will be scored **upon 50** (this happens in my code and is not displayed in the mainPanel) 
+
+- The **overall score** will determine the quote this app is generated for you (:. 
+
+- You will then receive you quote on the main panel. 
+
+## Try the app
+Try the app at:  
+
+Get the source code at: 
